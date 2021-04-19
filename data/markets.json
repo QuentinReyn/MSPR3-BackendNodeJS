@@ -1,0 +1,2112 @@
+[
+{ 
+"achats" :
+[{
+  "id": 1,
+  "market_name": "Enova International, Inc.",
+  "country": 20,
+  "current_value": 586.5,
+  "lower_value": 6.22,
+  "higher_value": 596.5
+}, {
+  "id": 2,
+  "market_name": "First Trust International IPO ETF",
+  "country": 20,
+  "current_value": 593.15,
+  "lower_value": 8.82,
+  "higher_value": 603.15
+}, {
+  "id": 3,
+  "market_name": "Francesca's Holdings Corporation",
+  "country": 20,
+  "current_value": 125.19,
+  "lower_value": 2.99,
+  "higher_value": 135.19
+}, {
+  "id": 4,
+  "market_name": "CoreCivic, Inc.",
+  "country": 20,
+  "current_value": 841.94,
+  "lower_value": 5.74,
+  "higher_value": 851.94
+}, {
+  "id": 5,
+  "market_name": "AMC Networks Inc.",
+  "country": 20,
+  "current_value": 921.27,
+  "lower_value": 8.36,
+  "higher_value": 931.27
+}, {
+  "id": 6,
+  "market_name": "Newpark Resources, Inc.",
+  "country": 20,
+  "current_value": 1196.5,
+  "lower_value": 2.92,
+  "higher_value": 1206.5
+}, {
+  "id": 7,
+  "market_name": "J. Jill, Inc.",
+  "country": 20,
+  "current_value": 737.53,
+  "lower_value": 2.25,
+  "higher_value": 747.53
+}, {
+  "id": 8,
+  "market_name": "PowerShares DWA Basic Materials Momentum Portfolio",
+  "country": 20,
+  "current_value": 1089.0,
+  "lower_value": 3.8,
+  "higher_value": 1099.0
+}, {
+  "id": 9,
+  "market_name": "Alteryx, Inc.",
+  "country": 20,
+  "current_value": 1154.76,
+  "lower_value": 4.73,
+  "higher_value": 1164.76
+}, {
+  "id": 10,
+  "market_name": "Endeavour Silver Corporation",
+  "country": 20,
+  "current_value": 475.71,
+  "lower_value": 3.64,
+  "higher_value": 485.71
+}, {
+  "id": 11,
+  "market_name": "ENSCO plc",
+  "country": 20,
+  "current_value": 923.02,
+  "lower_value": 7.35,
+  "higher_value": 933.02
+}, {
+  "id": 12,
+  "market_name": "Grifols, S.A.",
+  "country": 20,
+  "current_value": 634.15,
+  "lower_value": 4.0,
+  "higher_value": 644.15
+}, {
+  "id": 13,
+  "market_name": "WESCO International, Inc.",
+  "country": 20,
+  "current_value": 650.64,
+  "lower_value": 6.99,
+  "higher_value": 660.64
+}, {
+  "id": 14,
+  "market_name": "Rexnord Corporation",
+  "country": 20,
+  "current_value": 198.99,
+  "lower_value": 8.52,
+  "higher_value": 208.99
+}, {
+  "id": 15,
+  "market_name": "Fortune Brands Home & Security, Inc.",
+  "country": 20,
+  "current_value": 602.35,
+  "lower_value": 4.22,
+  "higher_value": 612.35
+}, {
+  "id": 16,
+  "market_name": "Chegg, Inc.",
+  "country": 20,
+  "current_value": 990.95,
+  "lower_value": 1.03,
+  "higher_value": 1000.95
+}, {
+  "id": 17,
+  "market_name": "Viking Therapeutics, Inc.",
+  "country": 20,
+  "current_value": 975.24,
+  "lower_value": 5.78,
+  "higher_value": 985.24
+}, {
+  "id": 18,
+  "market_name": "Medley Capital Corporation",
+  "country": 20,
+  "current_value": 35.33,
+  "lower_value": 1.51,
+  "higher_value": 45.33
+}, {
+  "id": 19,
+  "market_name": "Global X S&P 500 Catholic Values ETF",
+  "country": 20,
+  "current_value": 696.72,
+  "lower_value": 7.62,
+  "higher_value": 706.72
+}, {
+  "id": 20,
+  "market_name": "NMI Holdings Inc",
+  "country": 20,
+  "current_value": 482.06,
+  "lower_value": 1.45,
+  "higher_value": 492.06
+}, {
+  "id": 21,
+  "market_name": "Kennametal Inc.",
+  "country": 20,
+  "current_value": 434.0,
+  "lower_value": 8.28,
+  "higher_value": 444.0
+}, {
+  "id": 22,
+  "market_name": "Energizer Holdings, Inc.",
+  "country": 20,
+  "current_value": 200.31,
+  "lower_value": 6.99,
+  "higher_value": 210.31
+}, {
+  "id": 23,
+  "market_name": "OFG Bancorp",
+  "country": 20,
+  "current_value": 534.05,
+  "lower_value": 1.74,
+  "higher_value": 544.05
+}, {
+  "id": 24,
+  "market_name": "Tenneco Inc.",
+  "country": 20,
+  "current_value": 746.7,
+  "lower_value": 6.03,
+  "higher_value": 756.7
+}, {
+  "id": 25,
+  "market_name": "Seadrill Partners LLC",
+  "country": 20,
+  "current_value": 382.55,
+  "lower_value": 7.27,
+  "higher_value": 392.55
+}, {
+  "id": 26,
+  "market_name": "Hope Bancorp, Inc.",
+  "country": 20,
+  "current_value": 358.04,
+  "lower_value": 8.48,
+  "higher_value": 368.04
+}, {
+  "id": 27,
+  "market_name": "The Habit Restaurants, Inc.",
+  "country": 20,
+  "current_value": 520.77,
+  "lower_value": 3.89,
+  "higher_value": 530.77
+}, {
+  "id": 28,
+  "market_name": "Laredo Petroleum, Inc.",
+  "country": 20,
+  "current_value": 633.1,
+  "lower_value": 4.86,
+  "higher_value": 643.1
+}, {
+  "id": 29,
+  "market_name": "Brasilagro Cia Brasileira De Propriedades Agricolas",
+  "country": 20,
+  "current_value": 602.08,
+  "lower_value": 3.4,
+  "higher_value": 612.08
+}, {
+  "id": 30,
+  "market_name": "Nuveen New York Quality Municipal Income Fund",
+  "country": 20,
+  "current_value": 786.5,
+  "lower_value": 6.49,
+  "higher_value": 796.5
+}, {
+  "id": 31,
+  "market_name": "First Trust Japan AlphaDEX Fund",
+  "country": 20,
+  "current_value": 355.77,
+  "lower_value": 9.8,
+  "higher_value": 365.77
+}, {
+  "id": 32,
+  "market_name": "Avid Technology, Inc.",
+  "country": 20,
+  "current_value": 889.5,
+  "lower_value": 9.4,
+  "higher_value": 899.5
+}, {
+  "id": 33,
+  "market_name": "PPlus Trust",
+  "country": 20,
+  "current_value": 309.09,
+  "lower_value": 5.52,
+  "higher_value": 319.09
+}, {
+  "id": 34,
+  "market_name": "Tri Continental Corporation",
+  "country": 20,
+  "current_value": 693.99,
+  "lower_value": 4.85,
+  "higher_value": 703.99
+}, {
+  "id": 35,
+  "market_name": "Virtus Investment Partners, Inc.",
+  "country": 20,
+  "current_value": 1022.25,
+  "lower_value": 7.55,
+  "higher_value": 1032.25
+}, {
+  "id": 36,
+  "market_name": "AutoNation, Inc.",
+  "country": 20,
+  "current_value": 906.32,
+  "lower_value": 5.41,
+  "higher_value": 916.32
+}, {
+  "id": 37,
+  "market_name": "IES Holdings, Inc.",
+  "country": 20,
+  "current_value": 618.62,
+  "lower_value": 6.68,
+  "higher_value": 628.62
+}, {
+  "id": 38,
+  "market_name": "The Rubicon Project, Inc.",
+  "country": 20,
+  "current_value": 43.7,
+  "lower_value": 4.82,
+  "higher_value": 53.7
+}, {
+  "id": 39,
+  "market_name": "Spring Bank Pharmaceuticals, Inc.",
+  "country": 20,
+  "current_value": 449.01,
+  "lower_value": 9.65,
+  "higher_value": 459.01
+}, {
+  "id": 40,
+  "market_name": "Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ",
+  "country": 20,
+  "current_value": 1050.48,
+  "lower_value": 8.01,
+  "higher_value": 1060.48
+}, {
+  "id": 41,
+  "market_name": "CECO Environmental Corp.",
+  "country": 20,
+  "current_value": 491.47,
+  "lower_value": 8.36,
+  "higher_value": 501.47
+}, {
+  "id": 42,
+  "market_name": "Comtech Telecommunications Corp.",
+  "country": 20,
+  "current_value": 936.5,
+  "lower_value": 9.15,
+  "higher_value": 946.5
+}, {
+  "id": 43,
+  "market_name": "Fitbit, Inc.",
+  "country": 20,
+  "current_value": 681.24,
+  "lower_value": 7.21,
+  "higher_value": 691.24
+}, {
+  "id": 44,
+  "market_name": "iShares S&P India Nifty 50 Index Fund",
+  "country": 20,
+  "current_value": 1197.47,
+  "lower_value": 4.74,
+  "higher_value": 1207.47
+}, {
+  "id": 45,
+  "market_name": "Staffing 360 Solutions, Inc.",
+  "country": 20,
+  "current_value": 486.73,
+  "lower_value": 6.65,
+  "higher_value": 496.73
+}, {
+  "id": 46,
+  "market_name": "PennyMac Mortgage Investment Trust",
+  "country": 20,
+  "current_value": 897.17,
+  "lower_value": 8.97,
+  "higher_value": 907.17
+}, {
+  "id": 47,
+  "market_name": "Emergent Biosolutions, Inc.",
+  "country": 20,
+  "current_value": 846.88,
+  "lower_value": 5.64,
+  "higher_value": 856.88
+}, {
+  "id": 48,
+  "market_name": "Algonquin Power & Utilities Corp.",
+  "country": 20,
+  "current_value": 24.45,
+  "lower_value": 1.66,
+  "higher_value": 34.45
+}, {
+  "id": 49,
+  "market_name": "Arcos Dorados Holdings Inc.",
+  "country": 20,
+  "current_value": 453.86,
+  "lower_value": 9.83,
+  "higher_value": 463.86
+}, {
+  "id": 50,
+  "market_name": "Vanguard International High Dividend Yield ETF",
+  "country": 20,
+  "current_value": 272.9,
+  "lower_value": 1.91,
+  "higher_value": 282.9
+}, {
+  "id": 51,
+  "market_name": "Conyers Park Acquisition Corp.",
+  "country": 20,
+  "current_value": 949.75,
+  "lower_value": 7.65,
+  "higher_value": 959.75
+}, {
+  "id": 52,
+  "market_name": "GlaxoSmithKline PLC",
+  "country": 20,
+  "current_value": 1170.11,
+  "lower_value": 3.46,
+  "higher_value": 1180.11
+}, {
+  "id": 53,
+  "market_name": "NV5 Global, Inc.",
+  "country": 20,
+  "current_value": 617.47,
+  "lower_value": 5.97,
+  "higher_value": 627.47
+}, {
+  "id": 54,
+  "market_name": "Newtek Business Services Corp.",
+  "country": 20,
+  "current_value": 39.42,
+  "lower_value": 2.96,
+  "higher_value": 49.42
+}, {
+  "id": 55,
+  "market_name": "Banco Santander, S.A.",
+  "country": 20,
+  "current_value": 854.29,
+  "lower_value": 5.61,
+  "higher_value": 864.29
+}, {
+  "id": 56,
+  "market_name": "Gilat Satellite Networks Ltd.",
+  "country": 20,
+  "current_value": 187.14,
+  "lower_value": 6.91,
+  "higher_value": 197.14
+}, {
+  "id": 57,
+  "market_name": "CRISPR Therapeutics AG",
+  "country": 20,
+  "current_value": 552.79,
+  "lower_value": 2.45,
+  "higher_value": 562.79
+}, {
+  "id": 58,
+  "market_name": "Fang Holdings Limited",
+  "country": 20,
+  "current_value": 674.77,
+  "lower_value": 1.82,
+  "higher_value": 684.77
+}, {
+  "id": 59,
+  "market_name": "National Instruments Corporation",
+  "country": 20,
+  "current_value": 679.68,
+  "lower_value": 6.55,
+  "higher_value": 689.68
+}, {
+  "id": 60,
+  "market_name": "Flexsteel Industries, Inc.",
+  "country": 20,
+  "current_value": 341.29,
+  "lower_value": 4.97,
+  "higher_value": 351.29
+}, {
+  "id": 61,
+  "market_name": "Cinemark Holdings Inc",
+  "country": 20,
+  "current_value": 698.14,
+  "lower_value": 9.0,
+  "higher_value": 708.14
+}, {
+  "id": 62,
+  "market_name": "Banco Bilbao Viscaya Argentaria S.A.",
+  "country": 20,
+  "current_value": 917.6,
+  "lower_value": 4.89,
+  "higher_value": 927.6
+}, {
+  "id": 63,
+  "market_name": "Blackrock MuniYield Investment Fund",
+  "country": 20,
+  "current_value": 921.27,
+  "lower_value": 3.72,
+  "higher_value": 931.27
+}, {
+  "id": 64,
+  "market_name": "HSBC Holdings plc",
+  "country": 20,
+  "current_value": 862.74,
+  "lower_value": 1.11,
+  "higher_value": 872.74
+}, {
+  "id": 65,
+  "market_name": "NF Energy Saving Corporation",
+  "country": 20,
+  "current_value": 855.44,
+  "lower_value": 6.23,
+  "higher_value": 865.44
+}, {
+  "id": 66,
+  "market_name": "Geopark Ltd",
+  "country": 20,
+  "current_value": 1166.5,
+  "lower_value": 1.15,
+  "higher_value": 1176.5
+}, {
+  "id": 67,
+  "market_name": "CalAtlantic Group, Inc.",
+  "country": 20,
+  "current_value": 441.82,
+  "lower_value": 9.45,
+  "higher_value": 451.82
+}, {
+  "id": 68,
+  "market_name": "Autoliv, Inc.",
+  "country": 20,
+  "current_value": 1152.69,
+  "lower_value": 9.01,
+  "higher_value": 1162.69
+}, {
+  "id": 69,
+  "market_name": "Ruby Tuesday, Inc.",
+  "country": 20,
+  "current_value": 836.05,
+  "lower_value": 4.62,
+  "higher_value": 846.05
+}, {
+  "id": 70,
+  "market_name": "Hallador Energy Company",
+  "country": 20,
+  "current_value": 439.61,
+  "lower_value": 6.56,
+  "higher_value": 449.61
+}, {
+  "id": 71,
+  "market_name": "State Street Corporation",
+  "country": 20,
+  "current_value": 712.62,
+  "lower_value": 6.61,
+  "higher_value": 722.62
+}, {
+  "id": 72,
+  "market_name": "James Hardie Industries plc.",
+  "country": 20,
+  "current_value": 837.25,
+  "lower_value": 4.24,
+  "higher_value": 847.25
+}, {
+  "id": 73,
+  "market_name": "Fortuna Silver Mines Inc.",
+  "country": 20,
+  "current_value": 1147.29,
+  "lower_value": 9.83,
+  "higher_value": 1157.29
+}, {
+  "id": 74,
+  "market_name": "Alliqua BioMedical, Inc.",
+  "country": 20,
+  "current_value": 848.04,
+  "lower_value": 4.32,
+  "higher_value": 858.04
+}, {
+  "id": 75,
+  "market_name": "Super Micro Computer, Inc.",
+  "country": 20,
+  "current_value": 608.48,
+  "lower_value": 8.53,
+  "higher_value": 618.48
+}, {
+  "id": 76,
+  "market_name": "PDF Solutions, Inc.",
+  "country": 20,
+  "current_value": 578.14,
+  "lower_value": 3.4,
+  "higher_value": 588.14
+}, {
+  "id": 77,
+  "market_name": "Utah Medical Products, Inc.",
+  "country": 20,
+  "current_value": 171.59,
+  "lower_value": 6.52,
+  "higher_value": 181.59
+}, {
+  "id": 78,
+  "market_name": "Azul S.A.",
+  "country": 20,
+  "current_value": 494.85,
+  "lower_value": 6.88,
+  "higher_value": 504.85
+}, {
+  "id": 79,
+  "market_name": "JetPay Corporation",
+  "country": 20,
+  "current_value": 593.23,
+  "lower_value": 5.19,
+  "higher_value": 603.23
+}, {
+  "id": 80,
+  "market_name": "Baker Hughes Incorporated",
+  "country": 20,
+  "current_value": 476.44,
+  "lower_value": 3.47,
+  "higher_value": 486.44
+}, {
+  "id": 81,
+  "market_name": "Hannon Armstrong Sustainable Infrastructure Capital, Inc.",
+  "country": 20,
+  "current_value": 729.08,
+  "lower_value": 2.0,
+  "higher_value": 739.08
+}, {
+  "id": 82,
+  "market_name": "WMIH Corp.",
+  "country": 20,
+  "current_value": 1050.82,
+  "lower_value": 2.85,
+  "higher_value": 1060.82
+}, {
+  "id": 83,
+  "market_name": "Harris Corporation",
+  "country": 20,
+  "current_value": 157.77,
+  "lower_value": 8.45,
+  "higher_value": 167.77
+}, {
+  "id": 84,
+  "market_name": "Rennova Health, Inc.",
+  "country": 20,
+  "current_value": 31.44,
+  "lower_value": 8.3,
+  "higher_value": 41.44
+}, {
+  "id": 85,
+  "market_name": "Barings Participation Investors",
+  "country": 20,
+  "current_value": 1039.71,
+  "lower_value": 7.19,
+  "higher_value": 1049.71
+}, {
+  "id": 86,
+  "market_name": "TE Connectivity Ltd.",
+  "country": 20,
+  "current_value": 531.22,
+  "lower_value": 8.79,
+  "higher_value": 541.22
+}, {
+  "id": 87,
+  "market_name": "Dollar General Corporation",
+  "country": 20,
+  "current_value": 51.94,
+  "lower_value": 6.23,
+  "higher_value": 61.94
+}, {
+  "id": 88,
+  "market_name": "First Community Bancshares, Inc.",
+  "country": 20,
+  "current_value": 359.43,
+  "lower_value": 7.87,
+  "higher_value": 369.43
+}, {
+  "id": 89,
+  "market_name": "Vident International Equity Fund",
+  "country": 20,
+  "current_value": 242.73,
+  "lower_value": 4.2,
+  "higher_value": 252.73
+}, {
+  "id": 90,
+  "market_name": "Stanley Black & Decker, Inc.",
+  "country": 20,
+  "current_value": 191.17,
+  "lower_value": 5.5,
+  "higher_value": 201.17
+}, {
+  "id": 91,
+  "market_name": "MiMedx Group, Inc",
+  "country": 20,
+  "current_value": 258.65,
+  "lower_value": 9.0,
+  "higher_value": 268.65
+}, {
+  "id": 92,
+  "market_name": "NOW Inc.",
+  "country": 20,
+  "current_value": 1002.05,
+  "lower_value": 5.02,
+  "higher_value": 1012.05
+}, {
+  "id": 93,
+  "market_name": "Sky Solar Holdings, Ltd.",
+  "country": 20,
+  "current_value": 921.77,
+  "lower_value": 7.67,
+  "higher_value": 931.77
+}, {
+  "id": 94,
+  "market_name": "LSI Industries Inc.",
+  "country": 20,
+  "current_value": 167.64,
+  "lower_value": 3.81,
+  "higher_value": 177.64
+}, {
+  "id": 95,
+  "market_name": "Education Realty Trust Inc.",
+  "country": 20,
+  "current_value": 95.76,
+  "lower_value": 3.46,
+  "higher_value": 105.76
+}, {
+  "id": 96,
+  "market_name": "Roka Bioscience, Inc.",
+  "country": 20,
+  "current_value": 546.6,
+  "lower_value": 3.51,
+  "higher_value": 556.6
+}, {
+  "id": 97,
+  "market_name": "Eldorado Gold Corporation",
+  "country": 20,
+  "current_value": 273.42,
+  "lower_value": 6.07,
+  "higher_value": 283.42
+}, {
+  "id": 98,
+  "market_name": "Holly Energy Partners, L.P.",
+  "country": 20,
+  "current_value": 372.07,
+  "lower_value": 1.27,
+  "higher_value": 382.07
+}, {
+  "id": 99,
+  "market_name": "Urban Edge Properties",
+  "country": 20,
+  "current_value": 100.88,
+  "lower_value": 7.32,
+  "higher_value": 110.88
+}, {
+  "id": 100,
+  "market_name": "PGT Innovations, Inc.",
+  "country": 20,
+  "current_value": 626.81,
+  "lower_value": 7.79,
+  "higher_value": 636.81
+}]
+,
+"rh":
+[{
+  "id": 1,
+  "market_name": "Enova International, Inc.",
+  "country": 20,
+  "current_value": 586.5,
+  "lower_value": 6.22,
+  "higher_value": 596.5
+}, {
+  "id": 2,
+  "market_name": "First Trust International IPO ETF",
+  "country": 20,
+  "current_value": 593.15,
+  "lower_value": 8.82,
+  "higher_value": 603.15
+}, {
+  "id": 3,
+  "market_name": "Francesca's Holdings Corporation",
+  "country": 20,
+  "current_value": 125.19,
+  "lower_value": 2.99,
+  "higher_value": 135.19
+}, {
+  "id": 4,
+  "market_name": "CoreCivic, Inc.",
+  "country": 20,
+  "current_value": 841.94,
+  "lower_value": 5.74,
+  "higher_value": 851.94
+}, {
+  "id": 5,
+  "market_name": "AMC Networks Inc.",
+  "country": 20,
+  "current_value": 921.27,
+  "lower_value": 8.36,
+  "higher_value": 931.27
+}, {
+  "id": 6,
+  "market_name": "Newpark Resources, Inc.",
+  "country": 20,
+  "current_value": 1196.5,
+  "lower_value": 2.92,
+  "higher_value": 1206.5
+}, {
+  "id": 7,
+  "market_name": "J. Jill, Inc.",
+  "country": 20,
+  "current_value": 737.53,
+  "lower_value": 2.25,
+  "higher_value": 747.53
+}, {
+  "id": 8,
+  "market_name": "PowerShares DWA Basic Materials Momentum Portfolio",
+  "country": 20,
+  "current_value": 1089.0,
+  "lower_value": 3.8,
+  "higher_value": 1099.0
+}, {
+  "id": 9,
+  "market_name": "Alteryx, Inc.",
+  "country": 20,
+  "current_value": 1154.76,
+  "lower_value": 4.73,
+  "higher_value": 1164.76
+}, {
+  "id": 10,
+  "market_name": "Endeavour Silver Corporation",
+  "country": 20,
+  "current_value": 475.71,
+  "lower_value": 3.64,
+  "higher_value": 485.71
+}, {
+  "id": 11,
+  "market_name": "ENSCO plc",
+  "country": 20,
+  "current_value": 923.02,
+  "lower_value": 7.35,
+  "higher_value": 933.02
+}, {
+  "id": 12,
+  "market_name": "Grifols, S.A.",
+  "country": 20,
+  "current_value": 634.15,
+  "lower_value": 4.0,
+  "higher_value": 644.15
+}, {
+  "id": 13,
+  "market_name": "WESCO International, Inc.",
+  "country": 20,
+  "current_value": 650.64,
+  "lower_value": 6.99,
+  "higher_value": 660.64
+}, {
+  "id": 14,
+  "market_name": "Rexnord Corporation",
+  "country": 20,
+  "current_value": 198.99,
+  "lower_value": 8.52,
+  "higher_value": 208.99
+}, {
+  "id": 15,
+  "market_name": "Fortune Brands Home & Security, Inc.",
+  "country": 20,
+  "current_value": 602.35,
+  "lower_value": 4.22,
+  "higher_value": 612.35
+}, {
+  "id": 16,
+  "market_name": "Chegg, Inc.",
+  "country": 20,
+  "current_value": 990.95,
+  "lower_value": 1.03,
+  "higher_value": 1000.95
+}, {
+  "id": 17,
+  "market_name": "Viking Therapeutics, Inc.",
+  "country": 20,
+  "current_value": 975.24,
+  "lower_value": 5.78,
+  "higher_value": 985.24
+}, {
+  "id": 18,
+  "market_name": "Medley Capital Corporation",
+  "country": 20,
+  "current_value": 35.33,
+  "lower_value": 1.51,
+  "higher_value": 45.33
+}, {
+  "id": 19,
+  "market_name": "Global X S&P 500 Catholic Values ETF",
+  "country": 20,
+  "current_value": 696.72,
+  "lower_value": 7.62,
+  "higher_value": 706.72
+}, {
+  "id": 20,
+  "market_name": "NMI Holdings Inc",
+  "country": 20,
+  "current_value": 482.06,
+  "lower_value": 1.45,
+  "higher_value": 492.06
+}, {
+  "id": 21,
+  "market_name": "Kennametal Inc.",
+  "country": 20,
+  "current_value": 434.0,
+  "lower_value": 8.28,
+  "higher_value": 444.0
+}, {
+  "id": 22,
+  "market_name": "Energizer Holdings, Inc.",
+  "country": 20,
+  "current_value": 200.31,
+  "lower_value": 6.99,
+  "higher_value": 210.31
+}, {
+  "id": 23,
+  "market_name": "OFG Bancorp",
+  "country": 20,
+  "current_value": 534.05,
+  "lower_value": 1.74,
+  "higher_value": 544.05
+}, {
+  "id": 24,
+  "market_name": "Tenneco Inc.",
+  "country": 20,
+  "current_value": 746.7,
+  "lower_value": 6.03,
+  "higher_value": 756.7
+}, {
+  "id": 25,
+  "market_name": "Seadrill Partners LLC",
+  "country": 20,
+  "current_value": 382.55,
+  "lower_value": 7.27,
+  "higher_value": 392.55
+}, {
+  "id": 26,
+  "market_name": "Hope Bancorp, Inc.",
+  "country": 20,
+  "current_value": 358.04,
+  "lower_value": 8.48,
+  "higher_value": 368.04
+}, {
+  "id": 27,
+  "market_name": "The Habit Restaurants, Inc.",
+  "country": 20,
+  "current_value": 520.77,
+  "lower_value": 3.89,
+  "higher_value": 530.77
+}, {
+  "id": 28,
+  "market_name": "Laredo Petroleum, Inc.",
+  "country": 20,
+  "current_value": 633.1,
+  "lower_value": 4.86,
+  "higher_value": 643.1
+}, {
+  "id": 29,
+  "market_name": "Brasilagro Cia Brasileira De Propriedades Agricolas",
+  "country": 20,
+  "current_value": 602.08,
+  "lower_value": 3.4,
+  "higher_value": 612.08
+}, {
+  "id": 30,
+  "market_name": "Nuveen New York Quality Municipal Income Fund",
+  "country": 20,
+  "current_value": 786.5,
+  "lower_value": 6.49,
+  "higher_value": 796.5
+}, {
+  "id": 31,
+  "market_name": "First Trust Japan AlphaDEX Fund",
+  "country": 20,
+  "current_value": 355.77,
+  "lower_value": 9.8,
+  "higher_value": 365.77
+}, {
+  "id": 32,
+  "market_name": "Avid Technology, Inc.",
+  "country": 20,
+  "current_value": 889.5,
+  "lower_value": 9.4,
+  "higher_value": 899.5
+}, {
+  "id": 33,
+  "market_name": "PPlus Trust",
+  "country": 20,
+  "current_value": 309.09,
+  "lower_value": 5.52,
+  "higher_value": 319.09
+}, {
+  "id": 34,
+  "market_name": "Tri Continental Corporation",
+  "country": 20,
+  "current_value": 693.99,
+  "lower_value": 4.85,
+  "higher_value": 703.99
+}, {
+  "id": 35,
+  "market_name": "Virtus Investment Partners, Inc.",
+  "country": 20,
+  "current_value": 1022.25,
+  "lower_value": 7.55,
+  "higher_value": 1032.25
+}, {
+  "id": 36,
+  "market_name": "AutoNation, Inc.",
+  "country": 20,
+  "current_value": 906.32,
+  "lower_value": 5.41,
+  "higher_value": 916.32
+}, {
+  "id": 37,
+  "market_name": "IES Holdings, Inc.",
+  "country": 20,
+  "current_value": 618.62,
+  "lower_value": 6.68,
+  "higher_value": 628.62
+}, {
+  "id": 38,
+  "market_name": "The Rubicon Project, Inc.",
+  "country": 20,
+  "current_value": 43.7,
+  "lower_value": 4.82,
+  "higher_value": 53.7
+}, {
+  "id": 39,
+  "market_name": "Spring Bank Pharmaceuticals, Inc.",
+  "country": 20,
+  "current_value": 449.01,
+  "lower_value": 9.65,
+  "higher_value": 459.01
+}, {
+  "id": 40,
+  "market_name": "Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ",
+  "country": 20,
+  "current_value": 1050.48,
+  "lower_value": 8.01,
+  "higher_value": 1060.48
+}, {
+  "id": 41,
+  "market_name": "CECO Environmental Corp.",
+  "country": 20,
+  "current_value": 491.47,
+  "lower_value": 8.36,
+  "higher_value": 501.47
+}, {
+  "id": 42,
+  "market_name": "Comtech Telecommunications Corp.",
+  "country": 20,
+  "current_value": 936.5,
+  "lower_value": 9.15,
+  "higher_value": 946.5
+}, {
+  "id": 43,
+  "market_name": "Fitbit, Inc.",
+  "country": 20,
+  "current_value": 681.24,
+  "lower_value": 7.21,
+  "higher_value": 691.24
+}, {
+  "id": 44,
+  "market_name": "iShares S&P India Nifty 50 Index Fund",
+  "country": 20,
+  "current_value": 1197.47,
+  "lower_value": 4.74,
+  "higher_value": 1207.47
+}, {
+  "id": 45,
+  "market_name": "Staffing 360 Solutions, Inc.",
+  "country": 20,
+  "current_value": 486.73,
+  "lower_value": 6.65,
+  "higher_value": 496.73
+}, {
+  "id": 46,
+  "market_name": "PennyMac Mortgage Investment Trust",
+  "country": 20,
+  "current_value": 897.17,
+  "lower_value": 8.97,
+  "higher_value": 907.17
+}, {
+  "id": 47,
+  "market_name": "Emergent Biosolutions, Inc.",
+  "country": 20,
+  "current_value": 846.88,
+  "lower_value": 5.64,
+  "higher_value": 856.88
+}, {
+  "id": 48,
+  "market_name": "Algonquin Power & Utilities Corp.",
+  "country": 20,
+  "current_value": 24.45,
+  "lower_value": 1.66,
+  "higher_value": 34.45
+}, {
+  "id": 49,
+  "market_name": "Arcos Dorados Holdings Inc.",
+  "country": 20,
+  "current_value": 453.86,
+  "lower_value": 9.83,
+  "higher_value": 463.86
+}, {
+  "id": 50,
+  "market_name": "Vanguard International High Dividend Yield ETF",
+  "country": 20,
+  "current_value": 272.9,
+  "lower_value": 1.91,
+  "higher_value": 282.9
+}, {
+  "id": 51,
+  "market_name": "Conyers Park Acquisition Corp.",
+  "country": 20,
+  "current_value": 949.75,
+  "lower_value": 7.65,
+  "higher_value": 959.75
+}, {
+  "id": 52,
+  "market_name": "GlaxoSmithKline PLC",
+  "country": 20,
+  "current_value": 1170.11,
+  "lower_value": 3.46,
+  "higher_value": 1180.11
+}, {
+  "id": 53,
+  "market_name": "NV5 Global, Inc.",
+  "country": 20,
+  "current_value": 617.47,
+  "lower_value": 5.97,
+  "higher_value": 627.47
+}, {
+  "id": 54,
+  "market_name": "Newtek Business Services Corp.",
+  "country": 20,
+  "current_value": 39.42,
+  "lower_value": 2.96,
+  "higher_value": 49.42
+}, {
+  "id": 55,
+  "market_name": "Banco Santander, S.A.",
+  "country": 20,
+  "current_value": 854.29,
+  "lower_value": 5.61,
+  "higher_value": 864.29
+}, {
+  "id": 56,
+  "market_name": "Gilat Satellite Networks Ltd.",
+  "country": 20,
+  "current_value": 187.14,
+  "lower_value": 6.91,
+  "higher_value": 197.14
+}, {
+  "id": 57,
+  "market_name": "CRISPR Therapeutics AG",
+  "country": 20,
+  "current_value": 552.79,
+  "lower_value": 2.45,
+  "higher_value": 562.79
+}, {
+  "id": 58,
+  "market_name": "Fang Holdings Limited",
+  "country": 20,
+  "current_value": 674.77,
+  "lower_value": 1.82,
+  "higher_value": 684.77
+}, {
+  "id": 59,
+  "market_name": "National Instruments Corporation",
+  "country": 20,
+  "current_value": 679.68,
+  "lower_value": 6.55,
+  "higher_value": 689.68
+}, {
+  "id": 60,
+  "market_name": "Flexsteel Industries, Inc.",
+  "country": 20,
+  "current_value": 341.29,
+  "lower_value": 4.97,
+  "higher_value": 351.29
+}, {
+  "id": 61,
+  "market_name": "Cinemark Holdings Inc",
+  "country": 20,
+  "current_value": 698.14,
+  "lower_value": 9.0,
+  "higher_value": 708.14
+}, {
+  "id": 62,
+  "market_name": "Banco Bilbao Viscaya Argentaria S.A.",
+  "country": 20,
+  "current_value": 917.6,
+  "lower_value": 4.89,
+  "higher_value": 927.6
+}, {
+  "id": 63,
+  "market_name": "Blackrock MuniYield Investment Fund",
+  "country": 20,
+  "current_value": 921.27,
+  "lower_value": 3.72,
+  "higher_value": 931.27
+}, {
+  "id": 64,
+  "market_name": "HSBC Holdings plc",
+  "country": 20,
+  "current_value": 862.74,
+  "lower_value": 1.11,
+  "higher_value": 872.74
+}, {
+  "id": 65,
+  "market_name": "NF Energy Saving Corporation",
+  "country": 20,
+  "current_value": 855.44,
+  "lower_value": 6.23,
+  "higher_value": 865.44
+}, {
+  "id": 66,
+  "market_name": "Geopark Ltd",
+  "country": 20,
+  "current_value": 1166.5,
+  "lower_value": 1.15,
+  "higher_value": 1176.5
+}, {
+  "id": 67,
+  "market_name": "CalAtlantic Group, Inc.",
+  "country": 20,
+  "current_value": 441.82,
+  "lower_value": 9.45,
+  "higher_value": 451.82
+}, {
+  "id": 68,
+  "market_name": "Autoliv, Inc.",
+  "country": 20,
+  "current_value": 1152.69,
+  "lower_value": 9.01,
+  "higher_value": 1162.69
+}, {
+  "id": 69,
+  "market_name": "Ruby Tuesday, Inc.",
+  "country": 20,
+  "current_value": 836.05,
+  "lower_value": 4.62,
+  "higher_value": 846.05
+}, {
+  "id": 70,
+  "market_name": "Hallador Energy Company",
+  "country": 20,
+  "current_value": 439.61,
+  "lower_value": 6.56,
+  "higher_value": 449.61
+}, {
+  "id": 71,
+  "market_name": "State Street Corporation",
+  "country": 20,
+  "current_value": 712.62,
+  "lower_value": 6.61,
+  "higher_value": 722.62
+}, {
+  "id": 72,
+  "market_name": "James Hardie Industries plc.",
+  "country": 20,
+  "current_value": 837.25,
+  "lower_value": 4.24,
+  "higher_value": 847.25
+}, {
+  "id": 73,
+  "market_name": "Fortuna Silver Mines Inc.",
+  "country": 20,
+  "current_value": 1147.29,
+  "lower_value": 9.83,
+  "higher_value": 1157.29
+}, {
+  "id": 74,
+  "market_name": "Alliqua BioMedical, Inc.",
+  "country": 20,
+  "current_value": 848.04,
+  "lower_value": 4.32,
+  "higher_value": 858.04
+}, {
+  "id": 75,
+  "market_name": "Super Micro Computer, Inc.",
+  "country": 20,
+  "current_value": 608.48,
+  "lower_value": 8.53,
+  "higher_value": 618.48
+}, {
+  "id": 76,
+  "market_name": "PDF Solutions, Inc.",
+  "country": 20,
+  "current_value": 578.14,
+  "lower_value": 3.4,
+  "higher_value": 588.14
+}, {
+  "id": 77,
+  "market_name": "Utah Medical Products, Inc.",
+  "country": 20,
+  "current_value": 171.59,
+  "lower_value": 6.52,
+  "higher_value": 181.59
+}, {
+  "id": 78,
+  "market_name": "Azul S.A.",
+  "country": 20,
+  "current_value": 494.85,
+  "lower_value": 6.88,
+  "higher_value": 504.85
+}, {
+  "id": 79,
+  "market_name": "JetPay Corporation",
+  "country": 20,
+  "current_value": 593.23,
+  "lower_value": 5.19,
+  "higher_value": 603.23
+}, {
+  "id": 80,
+  "market_name": "Baker Hughes Incorporated",
+  "country": 20,
+  "current_value": 476.44,
+  "lower_value": 3.47,
+  "higher_value": 486.44
+}, {
+  "id": 81,
+  "market_name": "Hannon Armstrong Sustainable Infrastructure Capital, Inc.",
+  "country": 20,
+  "current_value": 729.08,
+  "lower_value": 2.0,
+  "higher_value": 739.08
+}, {
+  "id": 82,
+  "market_name": "WMIH Corp.",
+  "country": 20,
+  "current_value": 1050.82,
+  "lower_value": 2.85,
+  "higher_value": 1060.82
+}, {
+  "id": 83,
+  "market_name": "Harris Corporation",
+  "country": 20,
+  "current_value": 157.77,
+  "lower_value": 8.45,
+  "higher_value": 167.77
+}, {
+  "id": 84,
+  "market_name": "Rennova Health, Inc.",
+  "country": 20,
+  "current_value": 31.44,
+  "lower_value": 8.3,
+  "higher_value": 41.44
+}, {
+  "id": 85,
+  "market_name": "Barings Participation Investors",
+  "country": 20,
+  "current_value": 1039.71,
+  "lower_value": 7.19,
+  "higher_value": 1049.71
+}, {
+  "id": 86,
+  "market_name": "TE Connectivity Ltd.",
+  "country": 20,
+  "current_value": 531.22,
+  "lower_value": 8.79,
+  "higher_value": 541.22
+}, {
+  "id": 87,
+  "market_name": "Dollar General Corporation",
+  "country": 20,
+  "current_value": 51.94,
+  "lower_value": 6.23,
+  "higher_value": 61.94
+}, {
+  "id": 88,
+  "market_name": "First Community Bancshares, Inc.",
+  "country": 20,
+  "current_value": 359.43,
+  "lower_value": 7.87,
+  "higher_value": 369.43
+}, {
+  "id": 89,
+  "market_name": "Vident International Equity Fund",
+  "country": 20,
+  "current_value": 242.73,
+  "lower_value": 4.2,
+  "higher_value": 252.73
+}, {
+  "id": 90,
+  "market_name": "Stanley Black & Decker, Inc.",
+  "country": 20,
+  "current_value": 191.17,
+  "lower_value": 5.5,
+  "higher_value": 201.17
+}, {
+  "id": 91,
+  "market_name": "MiMedx Group, Inc",
+  "country": 20,
+  "current_value": 258.65,
+  "lower_value": 9.0,
+  "higher_value": 268.65
+}, {
+  "id": 92,
+  "market_name": "NOW Inc.",
+  "country": 20,
+  "current_value": 1002.05,
+  "lower_value": 5.02,
+  "higher_value": 1012.05
+}, {
+  "id": 93,
+  "market_name": "Sky Solar Holdings, Ltd.",
+  "country": 20,
+  "current_value": 921.77,
+  "lower_value": 7.67,
+  "higher_value": 931.77
+}, {
+  "id": 94,
+  "market_name": "LSI Industries Inc.",
+  "country": 20,
+  "current_value": 167.64,
+  "lower_value": 3.81,
+  "higher_value": 177.64
+}, {
+  "id": 95,
+  "market_name": "Education Realty Trust Inc.",
+  "country": 20,
+  "current_value": 95.76,
+  "lower_value": 3.46,
+  "higher_value": 105.76
+}, {
+  "id": 96,
+  "market_name": "Roka Bioscience, Inc.",
+  "country": 20,
+  "current_value": 546.6,
+  "lower_value": 3.51,
+  "higher_value": 556.6
+}, {
+  "id": 97,
+  "market_name": "Eldorado Gold Corporation",
+  "country": 20,
+  "current_value": 273.42,
+  "lower_value": 6.07,
+  "higher_value": 283.42
+}, {
+  "id": 98,
+  "market_name": "Holly Energy Partners, L.P.",
+  "country": 20,
+  "current_value": 372.07,
+  "lower_value": 1.27,
+  "higher_value": 382.07
+}, {
+  "id": 99,
+  "market_name": "Urban Edge Properties",
+  "country": 20,
+  "current_value": 100.88,
+  "lower_value": 7.32,
+  "higher_value": 110.88
+}, {
+  "id": 100,
+  "market_name": "PGT Innovations, Inc.",
+  "country": 20,
+  "current_value": 626.81,
+  "lower_value": 7.79,
+  "higher_value": 636.81
+}]
+,
+"finances" :
+[{
+  "id": 1,
+  "market_name": "Enova International, Inc.",
+  "country": 20,
+  "current_value": 586.5,
+  "lower_value": 6.22,
+  "higher_value": 596.5
+}, {
+  "id": 2,
+  "market_name": "First Trust International IPO ETF",
+  "country": 20,
+  "current_value": 593.15,
+  "lower_value": 8.82,
+  "higher_value": 603.15
+}, {
+  "id": 3,
+  "market_name": "Francesca's Holdings Corporation",
+  "country": 20,
+  "current_value": 125.19,
+  "lower_value": 2.99,
+  "higher_value": 135.19
+}, {
+  "id": 4,
+  "market_name": "CoreCivic, Inc.",
+  "country": 20,
+  "current_value": 841.94,
+  "lower_value": 5.74,
+  "higher_value": 851.94
+}, {
+  "id": 5,
+  "market_name": "AMC Networks Inc.",
+  "country": 20,
+  "current_value": 921.27,
+  "lower_value": 8.36,
+  "higher_value": 931.27
+}, {
+  "id": 6,
+  "market_name": "Newpark Resources, Inc.",
+  "country": 20,
+  "current_value": 1196.5,
+  "lower_value": 2.92,
+  "higher_value": 1206.5
+}, {
+  "id": 7,
+  "market_name": "J. Jill, Inc.",
+  "country": 20,
+  "current_value": 737.53,
+  "lower_value": 2.25,
+  "higher_value": 747.53
+}, {
+  "id": 8,
+  "market_name": "PowerShares DWA Basic Materials Momentum Portfolio",
+  "country": 20,
+  "current_value": 1089.0,
+  "lower_value": 3.8,
+  "higher_value": 1099.0
+}, {
+  "id": 9,
+  "market_name": "Alteryx, Inc.",
+  "country": 20,
+  "current_value": 1154.76,
+  "lower_value": 4.73,
+  "higher_value": 1164.76
+}, {
+  "id": 10,
+  "market_name": "Endeavour Silver Corporation",
+  "country": 20,
+  "current_value": 475.71,
+  "lower_value": 3.64,
+  "higher_value": 485.71
+}, {
+  "id": 11,
+  "market_name": "ENSCO plc",
+  "country": 20,
+  "current_value": 923.02,
+  "lower_value": 7.35,
+  "higher_value": 933.02
+}, {
+  "id": 12,
+  "market_name": "Grifols, S.A.",
+  "country": 20,
+  "current_value": 634.15,
+  "lower_value": 4.0,
+  "higher_value": 644.15
+}, {
+  "id": 13,
+  "market_name": "WESCO International, Inc.",
+  "country": 20,
+  "current_value": 650.64,
+  "lower_value": 6.99,
+  "higher_value": 660.64
+}, {
+  "id": 14,
+  "market_name": "Rexnord Corporation",
+  "country": 20,
+  "current_value": 198.99,
+  "lower_value": 8.52,
+  "higher_value": 208.99
+}, {
+  "id": 15,
+  "market_name": "Fortune Brands Home & Security, Inc.",
+  "country": 20,
+  "current_value": 602.35,
+  "lower_value": 4.22,
+  "higher_value": 612.35
+}, {
+  "id": 16,
+  "market_name": "Chegg, Inc.",
+  "country": 20,
+  "current_value": 990.95,
+  "lower_value": 1.03,
+  "higher_value": 1000.95
+}, {
+  "id": 17,
+  "market_name": "Viking Therapeutics, Inc.",
+  "country": 20,
+  "current_value": 975.24,
+  "lower_value": 5.78,
+  "higher_value": 985.24
+}, {
+  "id": 18,
+  "market_name": "Medley Capital Corporation",
+  "country": 20,
+  "current_value": 35.33,
+  "lower_value": 1.51,
+  "higher_value": 45.33
+}, {
+  "id": 19,
+  "market_name": "Global X S&P 500 Catholic Values ETF",
+  "country": 20,
+  "current_value": 696.72,
+  "lower_value": 7.62,
+  "higher_value": 706.72
+}, {
+  "id": 20,
+  "market_name": "NMI Holdings Inc",
+  "country": 20,
+  "current_value": 482.06,
+  "lower_value": 1.45,
+  "higher_value": 492.06
+}, {
+  "id": 21,
+  "market_name": "Kennametal Inc.",
+  "country": 20,
+  "current_value": 434.0,
+  "lower_value": 8.28,
+  "higher_value": 444.0
+}, {
+  "id": 22,
+  "market_name": "Energizer Holdings, Inc.",
+  "country": 20,
+  "current_value": 200.31,
+  "lower_value": 6.99,
+  "higher_value": 210.31
+}, {
+  "id": 23,
+  "market_name": "OFG Bancorp",
+  "country": 20,
+  "current_value": 534.05,
+  "lower_value": 1.74,
+  "higher_value": 544.05
+}, {
+  "id": 24,
+  "market_name": "Tenneco Inc.",
+  "country": 20,
+  "current_value": 746.7,
+  "lower_value": 6.03,
+  "higher_value": 756.7
+}, {
+  "id": 25,
+  "market_name": "Seadrill Partners LLC",
+  "country": 20,
+  "current_value": 382.55,
+  "lower_value": 7.27,
+  "higher_value": 392.55
+}, {
+  "id": 26,
+  "market_name": "Hope Bancorp, Inc.",
+  "country": 20,
+  "current_value": 358.04,
+  "lower_value": 8.48,
+  "higher_value": 368.04
+}, {
+  "id": 27,
+  "market_name": "The Habit Restaurants, Inc.",
+  "country": 20,
+  "current_value": 520.77,
+  "lower_value": 3.89,
+  "higher_value": 530.77
+}, {
+  "id": 28,
+  "market_name": "Laredo Petroleum, Inc.",
+  "country": 20,
+  "current_value": 633.1,
+  "lower_value": 4.86,
+  "higher_value": 643.1
+}, {
+  "id": 29,
+  "market_name": "Brasilagro Cia Brasileira De Propriedades Agricolas",
+  "country": 20,
+  "current_value": 602.08,
+  "lower_value": 3.4,
+  "higher_value": 612.08
+}, {
+  "id": 30,
+  "market_name": "Nuveen New York Quality Municipal Income Fund",
+  "country": 20,
+  "current_value": 786.5,
+  "lower_value": 6.49,
+  "higher_value": 796.5
+}, {
+  "id": 31,
+  "market_name": "First Trust Japan AlphaDEX Fund",
+  "country": 20,
+  "current_value": 355.77,
+  "lower_value": 9.8,
+  "higher_value": 365.77
+}, {
+  "id": 32,
+  "market_name": "Avid Technology, Inc.",
+  "country": 20,
+  "current_value": 889.5,
+  "lower_value": 9.4,
+  "higher_value": 899.5
+}, {
+  "id": 33,
+  "market_name": "PPlus Trust",
+  "country": 20,
+  "current_value": 309.09,
+  "lower_value": 5.52,
+  "higher_value": 319.09
+}, {
+  "id": 34,
+  "market_name": "Tri Continental Corporation",
+  "country": 20,
+  "current_value": 693.99,
+  "lower_value": 4.85,
+  "higher_value": 703.99
+}, {
+  "id": 35,
+  "market_name": "Virtus Investment Partners, Inc.",
+  "country": 20,
+  "current_value": 1022.25,
+  "lower_value": 7.55,
+  "higher_value": 1032.25
+}, {
+  "id": 36,
+  "market_name": "AutoNation, Inc.",
+  "country": 20,
+  "current_value": 906.32,
+  "lower_value": 5.41,
+  "higher_value": 916.32
+}, {
+  "id": 37,
+  "market_name": "IES Holdings, Inc.",
+  "country": 20,
+  "current_value": 618.62,
+  "lower_value": 6.68,
+  "higher_value": 628.62
+}, {
+  "id": 38,
+  "market_name": "The Rubicon Project, Inc.",
+  "country": 20,
+  "current_value": 43.7,
+  "lower_value": 4.82,
+  "higher_value": 53.7
+}, {
+  "id": 39,
+  "market_name": "Spring Bank Pharmaceuticals, Inc.",
+  "country": 20,
+  "current_value": 449.01,
+  "lower_value": 9.65,
+  "higher_value": 459.01
+}, {
+  "id": 40,
+  "market_name": "Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ",
+  "country": 20,
+  "current_value": 1050.48,
+  "lower_value": 8.01,
+  "higher_value": 1060.48
+}, {
+  "id": 41,
+  "market_name": "CECO Environmental Corp.",
+  "country": 20,
+  "current_value": 491.47,
+  "lower_value": 8.36,
+  "higher_value": 501.47
+}, {
+  "id": 42,
+  "market_name": "Comtech Telecommunications Corp.",
+  "country": 20,
+  "current_value": 936.5,
+  "lower_value": 9.15,
+  "higher_value": 946.5
+}, {
+  "id": 43,
+  "market_name": "Fitbit, Inc.",
+  "country": 20,
+  "current_value": 681.24,
+  "lower_value": 7.21,
+  "higher_value": 691.24
+}, {
+  "id": 44,
+  "market_name": "iShares S&P India Nifty 50 Index Fund",
+  "country": 20,
+  "current_value": 1197.47,
+  "lower_value": 4.74,
+  "higher_value": 1207.47
+}, {
+  "id": 45,
+  "market_name": "Staffing 360 Solutions, Inc.",
+  "country": 20,
+  "current_value": 486.73,
+  "lower_value": 6.65,
+  "higher_value": 496.73
+}, {
+  "id": 46,
+  "market_name": "PennyMac Mortgage Investment Trust",
+  "country": 20,
+  "current_value": 897.17,
+  "lower_value": 8.97,
+  "higher_value": 907.17
+}, {
+  "id": 47,
+  "market_name": "Emergent Biosolutions, Inc.",
+  "country": 20,
+  "current_value": 846.88,
+  "lower_value": 5.64,
+  "higher_value": 856.88
+}, {
+  "id": 48,
+  "market_name": "Algonquin Power & Utilities Corp.",
+  "country": 20,
+  "current_value": 24.45,
+  "lower_value": 1.66,
+  "higher_value": 34.45
+}, {
+  "id": 49,
+  "market_name": "Arcos Dorados Holdings Inc.",
+  "country": 20,
+  "current_value": 453.86,
+  "lower_value": 9.83,
+  "higher_value": 463.86
+}, {
+  "id": 50,
+  "market_name": "Vanguard International High Dividend Yield ETF",
+  "country": 20,
+  "current_value": 272.9,
+  "lower_value": 1.91,
+  "higher_value": 282.9
+}, {
+  "id": 51,
+  "market_name": "Conyers Park Acquisition Corp.",
+  "country": 20,
+  "current_value": 949.75,
+  "lower_value": 7.65,
+  "higher_value": 959.75
+}, {
+  "id": 52,
+  "market_name": "GlaxoSmithKline PLC",
+  "country": 20,
+  "current_value": 1170.11,
+  "lower_value": 3.46,
+  "higher_value": 1180.11
+}, {
+  "id": 53,
+  "market_name": "NV5 Global, Inc.",
+  "country": 20,
+  "current_value": 617.47,
+  "lower_value": 5.97,
+  "higher_value": 627.47
+}, {
+  "id": 54,
+  "market_name": "Newtek Business Services Corp.",
+  "country": 20,
+  "current_value": 39.42,
+  "lower_value": 2.96,
+  "higher_value": 49.42
+}, {
+  "id": 55,
+  "market_name": "Banco Santander, S.A.",
+  "country": 20,
+  "current_value": 854.29,
+  "lower_value": 5.61,
+  "higher_value": 864.29
+}, {
+  "id": 56,
+  "market_name": "Gilat Satellite Networks Ltd.",
+  "country": 20,
+  "current_value": 187.14,
+  "lower_value": 6.91,
+  "higher_value": 197.14
+}, {
+  "id": 57,
+  "market_name": "CRISPR Therapeutics AG",
+  "country": 20,
+  "current_value": 552.79,
+  "lower_value": 2.45,
+  "higher_value": 562.79
+}, {
+  "id": 58,
+  "market_name": "Fang Holdings Limited",
+  "country": 20,
+  "current_value": 674.77,
+  "lower_value": 1.82,
+  "higher_value": 684.77
+}, {
+  "id": 59,
+  "market_name": "National Instruments Corporation",
+  "country": 20,
+  "current_value": 679.68,
+  "lower_value": 6.55,
+  "higher_value": 689.68
+}, {
+  "id": 60,
+  "market_name": "Flexsteel Industries, Inc.",
+  "country": 20,
+  "current_value": 341.29,
+  "lower_value": 4.97,
+  "higher_value": 351.29
+}, {
+  "id": 61,
+  "market_name": "Cinemark Holdings Inc",
+  "country": 20,
+  "current_value": 698.14,
+  "lower_value": 9.0,
+  "higher_value": 708.14
+}, {
+  "id": 62,
+  "market_name": "Banco Bilbao Viscaya Argentaria S.A.",
+  "country": 20,
+  "current_value": 917.6,
+  "lower_value": 4.89,
+  "higher_value": 927.6
+}, {
+  "id": 63,
+  "market_name": "Blackrock MuniYield Investment Fund",
+  "country": 20,
+  "current_value": 921.27,
+  "lower_value": 3.72,
+  "higher_value": 931.27
+}, {
+  "id": 64,
+  "market_name": "HSBC Holdings plc",
+  "country": 20,
+  "current_value": 862.74,
+  "lower_value": 1.11,
+  "higher_value": 872.74
+}, {
+  "id": 65,
+  "market_name": "NF Energy Saving Corporation",
+  "country": 20,
+  "current_value": 855.44,
+  "lower_value": 6.23,
+  "higher_value": 865.44
+}, {
+  "id": 66,
+  "market_name": "Geopark Ltd",
+  "country": 20,
+  "current_value": 1166.5,
+  "lower_value": 1.15,
+  "higher_value": 1176.5
+}, {
+  "id": 67,
+  "market_name": "CalAtlantic Group, Inc.",
+  "country": 20,
+  "current_value": 441.82,
+  "lower_value": 9.45,
+  "higher_value": 451.82
+}, {
+  "id": 68,
+  "market_name": "Autoliv, Inc.",
+  "country": 20,
+  "current_value": 1152.69,
+  "lower_value": 9.01,
+  "higher_value": 1162.69
+}, {
+  "id": 69,
+  "market_name": "Ruby Tuesday, Inc.",
+  "country": 20,
+  "current_value": 836.05,
+  "lower_value": 4.62,
+  "higher_value": 846.05
+}, {
+  "id": 70,
+  "market_name": "Hallador Energy Company",
+  "country": 20,
+  "current_value": 439.61,
+  "lower_value": 6.56,
+  "higher_value": 449.61
+}, {
+  "id": 71,
+  "market_name": "State Street Corporation",
+  "country": 20,
+  "current_value": 712.62,
+  "lower_value": 6.61,
+  "higher_value": 722.62
+}, {
+  "id": 72,
+  "market_name": "James Hardie Industries plc.",
+  "country": 20,
+  "current_value": 837.25,
+  "lower_value": 4.24,
+  "higher_value": 847.25
+}, {
+  "id": 73,
+  "market_name": "Fortuna Silver Mines Inc.",
+  "country": 20,
+  "current_value": 1147.29,
+  "lower_value": 9.83,
+  "higher_value": 1157.29
+}, {
+  "id": 74,
+  "market_name": "Alliqua BioMedical, Inc.",
+  "country": 20,
+  "current_value": 848.04,
+  "lower_value": 4.32,
+  "higher_value": 858.04
+}, {
+  "id": 75,
+  "market_name": "Super Micro Computer, Inc.",
+  "country": 20,
+  "current_value": 608.48,
+  "lower_value": 8.53,
+  "higher_value": 618.48
+}, {
+  "id": 76,
+  "market_name": "PDF Solutions, Inc.",
+  "country": 20,
+  "current_value": 578.14,
+  "lower_value": 3.4,
+  "higher_value": 588.14
+}, {
+  "id": 77,
+  "market_name": "Utah Medical Products, Inc.",
+  "country": 20,
+  "current_value": 171.59,
+  "lower_value": 6.52,
+  "higher_value": 181.59
+}, {
+  "id": 78,
+  "market_name": "Azul S.A.",
+  "country": 20,
+  "current_value": 494.85,
+  "lower_value": 6.88,
+  "higher_value": 504.85
+}, {
+  "id": 79,
+  "market_name": "JetPay Corporation",
+  "country": 20,
+  "current_value": 593.23,
+  "lower_value": 5.19,
+  "higher_value": 603.23
+}, {
+  "id": 80,
+  "market_name": "Baker Hughes Incorporated",
+  "country": 20,
+  "current_value": 476.44,
+  "lower_value": 3.47,
+  "higher_value": 486.44
+}, {
+  "id": 81,
+  "market_name": "Hannon Armstrong Sustainable Infrastructure Capital, Inc.",
+  "country": 20,
+  "current_value": 729.08,
+  "lower_value": 2.0,
+  "higher_value": 739.08
+}, {
+  "id": 82,
+  "market_name": "WMIH Corp.",
+  "country": 20,
+  "current_value": 1050.82,
+  "lower_value": 2.85,
+  "higher_value": 1060.82
+}, {
+  "id": 83,
+  "market_name": "Harris Corporation",
+  "country": 20,
+  "current_value": 157.77,
+  "lower_value": 8.45,
+  "higher_value": 167.77
+}, {
+  "id": 84,
+  "market_name": "Rennova Health, Inc.",
+  "country": 20,
+  "current_value": 31.44,
+  "lower_value": 8.3,
+  "higher_value": 41.44
+}, {
+  "id": 85,
+  "market_name": "Barings Participation Investors",
+  "country": 20,
+  "current_value": 1039.71,
+  "lower_value": 7.19,
+  "higher_value": 1049.71
+}, {
+  "id": 86,
+  "market_name": "TE Connectivity Ltd.",
+  "country": 20,
+  "current_value": 531.22,
+  "lower_value": 8.79,
+  "higher_value": 541.22
+}, {
+  "id": 87,
+  "market_name": "Dollar General Corporation",
+  "country": 20,
+  "current_value": 51.94,
+  "lower_value": 6.23,
+  "higher_value": 61.94
+}, {
+  "id": 88,
+  "market_name": "First Community Bancshares, Inc.",
+  "country": 20,
+  "current_value": 359.43,
+  "lower_value": 7.87,
+  "higher_value": 369.43
+}, {
+  "id": 89,
+  "market_name": "Vident International Equity Fund",
+  "country": 20,
+  "current_value": 242.73,
+  "lower_value": 4.2,
+  "higher_value": 252.73
+}, {
+  "id": 90,
+  "market_name": "Stanley Black & Decker, Inc.",
+  "country": 20,
+  "current_value": 191.17,
+  "lower_value": 5.5,
+  "higher_value": 201.17
+}, {
+  "id": 91,
+  "market_name": "MiMedx Group, Inc",
+  "country": 20,
+  "current_value": 258.65,
+  "lower_value": 9.0,
+  "higher_value": 268.65
+}, {
+  "id": 92,
+  "market_name": "NOW Inc.",
+  "country": 20,
+  "current_value": 1002.05,
+  "lower_value": 5.02,
+  "higher_value": 1012.05
+}, {
+  "id": 93,
+  "market_name": "Sky Solar Holdings, Ltd.",
+  "country": 20,
+  "current_value": 921.77,
+  "lower_value": 7.67,
+  "higher_value": 931.77
+}, {
+  "id": 94,
+  "market_name": "LSI Industries Inc.",
+  "country": 20,
+  "current_value": 167.64,
+  "lower_value": 3.81,
+  "higher_value": 177.64
+}, {
+  "id": 95,
+  "market_name": "Education Realty Trust Inc.",
+  "country": 20,
+  "current_value": 95.76,
+  "lower_value": 3.46,
+  "higher_value": 105.76
+}, {
+  "id": 96,
+  "market_name": "Roka Bioscience, Inc.",
+  "country": 20,
+  "current_value": 546.6,
+  "lower_value": 3.51,
+  "higher_value": 556.6
+}, {
+  "id": 97,
+  "market_name": "Eldorado Gold Corporation",
+  "country": 20,
+  "current_value": 273.42,
+  "lower_value": 6.07,
+  "higher_value": 283.42
+}, {
+  "id": 98,
+  "market_name": "Holly Energy Partners, L.P.",
+  "country": 20,
+  "current_value": 372.07,
+  "lower_value": 1.27,
+  "higher_value": 382.07
+}, {
+  "id": 99,
+  "market_name": "Urban Edge Properties",
+  "country": 20,
+  "current_value": 100.88,
+  "lower_value": 7.32,
+  "higher_value": 110.88
+}, {
+  "id": 100,
+  "market_name": "PGT Innovations, Inc.",
+  "country": 20,
+  "current_value": 626.81,
+  "lower_value": 7.79,
+  "higher_value": 636.81
+}]
+}
+]
