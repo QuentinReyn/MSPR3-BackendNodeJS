@@ -43,11 +43,14 @@ const priceRoutes = (app, fs) => {
         readFile(data => {
             // Note: this isn't ideal for production use. 
             // ideally, use something like a UUID or other GUID for a unique ID value
-            const newPriceId = Date.now().toString();
-
             // add the new price
-            data[newPriceId.toString()] = req.body;
-
+            data.push({
+                id:req.body.id,
+                product_name: req.body.product_name,
+                tva: req.body.tva,
+                price: req.body.price
+            })
+            
             writeFile(JSON.stringify(data, null, 2), () => {
                 res.status(200).send('new price added');
             });
@@ -63,7 +66,13 @@ const priceRoutes = (app, fs) => {
 
             // add the new price
             const priceId = req.params["id"];
-            data[priceId] = req.body;
+            for (let [i, price] of data.entries()) {
+                if (price.id == priceId) {
+                    price.product_name = req.body.product_name;
+                    price.tva = req.body.tva;
+                    price.price = req.body.price;
+                }
+             }
 
             writeFile(JSON.stringify(data, null, 2), () => {
                 res.status(200).send(`prices id:${priceId} updated`);
@@ -80,7 +89,12 @@ const priceRoutes = (app, fs) => {
 
             // add the new price
             const priceId = req.params["id"];
-            delete data[priceId];
+            for (let [i, price] of data.entries()) {
+                if (price.id == priceId) {
+                    data.splice(i, 1);
+                }
+             }
+            //delete data[priceId];
 
             writeFile(JSON.stringify(data, null, 2), () => {
                 res.status(200).send(`prices id:${priceId} removed`);
